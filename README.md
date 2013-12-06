@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/phpjerk/gender-neutral.png)](https://travis-ci.org/phpjerk/gender-neutral)
+
 PHPJerk's Gender Neutral Library v1
 ==============
 
