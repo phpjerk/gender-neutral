@@ -15,7 +15,7 @@ Open up that composer.json and drop this
 
 	$text = "Read errors are reported only if nsent==0, otherwise we return nsent. The user needs to know that some data has already been sent, to stop him from sending it twice.";
 
-	echo $nu->neutralize($text);
+	echo $nu->neuter($text);
 ```
 
 You can also change the 'bad' words and the 'good' word to replace it.

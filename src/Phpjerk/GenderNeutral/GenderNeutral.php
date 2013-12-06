@@ -14,6 +14,7 @@ class GenderNeutral {
 
 	/**
 	 * Make it Neutral
+	 * (method name idea from @ABWebUS)
 	 *
 	 * @param  string $text
 	 * @return string
