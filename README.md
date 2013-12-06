@@ -3,6 +3,12 @@ PHPJerk's Gender Neutral Library v1
 
 Simple library that takes your text and removes all gender specific pronouns.
 
+## Install
+Open up that composer.json and drop this
+```
+	"phpjerk/gender-neutral": "dev-master"
+```
+
 ## Usage
 ```php
 	$nu = new Phpjerk\GenderNeutral\GenderNeutral;
