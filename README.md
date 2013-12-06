@@ -1,4 +1,4 @@
-PHPJerk's Gender Neutral Library
+PHPJerk's Gender Neutral Library v1
 ==============
 
 Simple library that takes your text and removes all gender specific pronouns.
